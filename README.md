@@ -5,6 +5,7 @@ weather classification paper list
 http://www.cse.cuhk.edu.hk/leojia/projects/weatherclassify/index.htm
 
 https://www.cs.ccu.edu.tw/~wtchu/projects/VisualWeatherPrediction/index.html
+https://www.cs.ccu.edu.tw/~wtchu/projects/Weather/index.html
 
 https://mwidataset.weebly.com/
 # dataset
