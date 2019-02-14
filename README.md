@@ -24,7 +24,7 @@ MULTI-CLASS WEATHER CLASSIFICATION ON SINGLE IMAGES [2015 CIP]
 
 Scene-free multi-class weather classification on single images [2016 Neurocomputing][https://mwidataset.weebly.com/] (with dataset)
 
-Weather classification with deep convolutional neural networks [2015 TIP]
+Weather classification with deep convolutional neural networks [2015 ICIP]
 
 Weather Classification: A new multi-class dataset, data augmentation approach and comprehensive evaluations of Convolutional Neural Networks [2018 ][https://github.com/ZebaKhanam91/SP-Weather]
 
